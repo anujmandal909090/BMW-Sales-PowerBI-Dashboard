@@ -22,15 +22,7 @@ The main data table used in the report is **`Clean_BMW`**.
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Power BI**
-- **Power Query** — Data cleaning and preparation
-- **DAX** — Calculated measures and analysis
 - **Data Visualization** — KPI Cards, Slicers, Pie Chart, Column Chart, Funnel Chart, Bar Chart and Donut Chart
-
-## 📸 Dashboard Preview
-
-![BMW Sales Dashboard](dashboard_screenshot.png)
-
-*BMW Sales Dashboard created using Microsoft Power BI.*
 
 ## 📌 Dashboard Components
 
